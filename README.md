@@ -1,2 +1,2 @@
 # ATM-project-with-GUI-
-# A basic ATM machine 
+# A basic ATM
