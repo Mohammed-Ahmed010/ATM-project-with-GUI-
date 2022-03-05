@@ -24,8 +24,10 @@ int n=Integer.parseInt(s);
               Businessaccount();
               break;
           default:
-              System.out.printf("Sorry \n" +
-                      "enter a valid Option ");
+          JOptionPane.showMessageDialog(null,"Sorry \n" +
+                              "enter a valid Option" );
+             // System.out.printf("Sorry \n" +
+                     // "enter a valid Option ");
 
       }
   }
